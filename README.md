@@ -637,3 +637,12 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 - [Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096)](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/)
 - [ORM Leaking More Than You Joined For](https://www.elttam.com/blog/leaking-more-than-you-joined-for/)
 - [JUMPSHOT: XM Cyber Uncovers Critical Local Privilege Escalation (CVE-2025-34352) in JumpCloud Agent](https://xmcyber.com/blog/jumpshot-xm-cyber-uncovers-critical-local-privilege-escalation-cve-2025-34352-in-jumpcloud-agent/)
+
+### 2026
+
+
+* [CVE-2026-48710: A Maintainer's Perspective - Marcelo Trylesinski](https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/)
+* [CVE-2026-5667: The Secret Life of Probe Requests – Mitsubishi MAC-577IF-2E WiFi Adapter | Messing with Code So You Don’t Have To](https://innerfirez.github.io/posts/the-secret-life-of-probe-requests/)
+* [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID. | bobdahacker](https://bobdahacker.com/blog/fifa-hack)
+* [Squidbleed (CVE-2026-47729) - Calif](https://blog.calif.io/p/squidbleed-cve-2026-47729)
+* [OpenBSD - Remote Kernel MPLS Stack Disclosure · Argus Proof of Possession](https://pop.argus-systems.ai/advisory/adv-040.html)
