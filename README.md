@@ -13,6 +13,7 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 - [Write-Ups](#write-ups)
   - [2024](#2024)
   - [2025](#2025)
+  - [2026](#2026)
 
 ## Write-Ups
 
