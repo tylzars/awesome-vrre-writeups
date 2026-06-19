@@ -647,7 +647,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID. | bobdahacker](https://bobdahacker.com/blog/fifa-hack)
 * [Squidbleed (CVE-2026-47729) - Calif](https://blog.calif.io/p/squidbleed-cve-2026-47729)
 * [OpenBSD - Remote Kernel MPLS Stack Disclosure · Argus Proof of Possession](https://pop.argus-systems.ai/advisory/adv-040.html)
-
 * [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy in the Era of AI Assisted Reverse Engineering | evilsocket](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
 * [Operation PCPcat: Hunting a Next.js Credential Stealer That's Already Compromised 59K Servers | AI-Native security platform](https://beelzebub.ai/blog/threat-huntinga-analysis-of-a-nextjs-exploit-campaign/)
 * [When OAuth Becomes a Weapon: Lessons from CVE-2025-6514 | Amla Labs](https://amlalabs.com/blog/oauth-cve-2025-6514/)
