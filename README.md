@@ -767,3 +767,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Marking Your Own Homework (Check Point Remote Access VPN IKEv1 Authentication Bypass CVE-2026-50751)](https://labs.watchtowr.com/marking-your-own-homework-check-point-remote-access-vpn-ikev1-authentication-bypass-cve-2026-50751/)
 * [SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon](https://www.varonis.com/blog/searchleak)
 * [Empty-ciphertext panic in aws-encryption-provider (CVD with AWS) â Syntetisk // Research](https://syntetisk.tech/blog/posts/empty-ciphertext-panic-in-aws-encryption-provider-cvd-with-aws/)
+* [GitHub - coremaze/ME2-Writeup: Reconstructing a Dead USB Protocol: A Handheld's Secrets Unlocked by a Hot Knife, a multi-disciplinary journey to reviving a forgotten USB interface  GitHub](https://github.com/coremaze/ME2-Writeup)
+* [Use-after-free in the QPACK encoder of nginx HTTP/3](https://cystack.net/vi/research/cve-2026-42530-nginx-en)
