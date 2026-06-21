@@ -769,3 +769,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Empty-ciphertext panic in aws-encryption-provider (CVD with AWS) â Syntetisk // Research](https://syntetisk.tech/blog/posts/empty-ciphertext-panic-in-aws-encryption-provider-cvd-with-aws/)
 * [GitHub - coremaze/ME2-Writeup: Reconstructing a Dead USB Protocol: A Handheld's Secrets Unlocked by a Hot Knife, a multi-disciplinary journey to reviving a forgotten USB interface  GitHub](https://github.com/coremaze/ME2-Writeup)
 * [Use-after-free in the QPACK encoder of nginx HTTP/3](https://cystack.net/vi/research/cve-2026-42530-nginx-en)
+* [Paradigm Shift - Introducing usbliter8](https://ps.tc/pages/blog-usbliter8.html)
+* [Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE | Karma(In)Security](https://karmainsecurity.com/chaining-bugs-in-discuz-from-race-condition-to-rce)
