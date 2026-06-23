@@ -771,3 +771,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Use-after-free in the QPACK encoder of nginx HTTP/3](https://cystack.net/vi/research/cve-2026-42530-nginx-en)
 * [Paradigm Shift - Introducing usbliter8](https://ps.tc/pages/blog-usbliter8.html)
 * [Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE | Karma(In)Security](https://karmainsecurity.com/chaining-bugs-in-discuz-from-race-condition-to-rce)
+* [Exploiting Auth0 Defaults in XSS Attacks - elttam](https://www.elttam.com/blog/exploiting-auth0-defaults-in-xss-attacks)
