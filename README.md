@@ -772,3 +772,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Paradigm Shift - Introducing usbliter8](https://ps.tc/pages/blog-usbliter8.html)
 * [Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE | Karma(In)Security](https://karmainsecurity.com/chaining-bugs-in-discuz-from-race-condition-to-rce)
 * [Exploiting Auth0 Defaults in XSS Attacks - elttam](https://www.elttam.com/blog/exploiting-auth0-defaults-in-xss-attacks)
+* [Cisco Unified Communications Manager Arbitrary File Write to RCE - SSD Secure Disclosure](https://ssd-disclosure.com/cisco-unified-communications-manager-arbitrary-file-write-to-rce/)
+* [2-Click Remote Code Execution in Meccha Chameleon](https://khaelkugler.com/blogs/meccha_chameleon.html)
+* [CVE-2026-25860 - OpenClinic GA Reflected XSS to RCE](https://www.partywave.site/show/research/cve-2026-25860-openclinic-ga-xss-to-rce)
