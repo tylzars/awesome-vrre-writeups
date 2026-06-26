@@ -776,3 +776,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [2-Click Remote Code Execution in Meccha Chameleon](https://khaelkugler.com/blogs/meccha_chameleon.html)
 * [CVE-2026-25860 - OpenClinic GA Reflected XSS to RCE](https://www.partywave.site/show/research/cve-2026-25860-openclinic-ga-xss-to-rce)
 * [When Defenses Become Attack Surface: CVE-2026-20971, a Samsung Kernel UAF | LucidBit Labs](https://lucidbitlabs.com/blog/when-defenses-become-attack-surface/)
+* [Exploiting vulnerabilities in Johnson & Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
+* [Opposites on the Same Host: Inside the 4vps.su Leak - Disclosing.Observer](https://disclosing.observer/2026/06/23/political-indifference-4vps-leak.html)
+* [Why my macOS Messages badge lied to me (and the one-line fix) - Vox Silva](https://blog.alexbeals.com/posts/macos-broken-messages-notification-badge)
