@@ -779,3 +779,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Exploiting vulnerabilities in Johnson & Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
 * [Opposites on the Same Host: Inside the 4vps.su Leak - Disclosing.Observer](https://disclosing.observer/2026/06/23/political-indifference-4vps-leak.html)
 * [Why my macOS Messages badge lied to me (and the one-line fix) - Vox Silva](https://blog.alexbeals.com/posts/macos-broken-messages-notification-badge)
+* [Dissecting Apple's Sparse Image Format (ASIF) | schamper.dev](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
