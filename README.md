@@ -780,3 +780,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Opposites on the Same Host: Inside the 4vps.su Leak - Disclosing.Observer](https://disclosing.observer/2026/06/23/political-indifference-4vps-leak.html)
 * [Why my macOS Messages badge lied to me (and the one-line fix) - Vox Silva](https://blog.alexbeals.com/posts/macos-broken-messages-notification-badge)
 * [Dissecting Apple's Sparse Image Format (ASIF) | schamper.dev](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
+* [A peek into Reddit's anti-spam internals  lyra's epic blog](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
+* [Auditing OpenReception: 16 CVEs in an end-to-end encrypted appointment booking platform | moltenbit](https://moltenbit.net/posts/auditing-openreception/)
