@@ -784,3 +784,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Auditing OpenReception: 16 CVEs in an end-to-end encrypted appointment booking platform | moltenbit](https://moltenbit.net/posts/auditing-openreception/)
 * [Privilege escalation to root in Lima QEMU guests via a world-writable agent socket (CVE-2026-53657) a Syntetisk // Research](https://syntetisk.tech/blog/posts/privilege-escalation-to-root-in-lima-qemu-guests-via-a-world-writable-agent-socket-cve-2026-53657/)
 * [Endor Labs AI SAST Finds Zero Day Memory-Amplification DoS in Anthropics buffa library | Blog | Endor Labs](https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa)
+* [How I broke Rhysida ransomware encryption | Sigreturn Labs](https://sigreturn.com/blog/rhysida-analysis-decryption/)
