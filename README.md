@@ -786,3 +786,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Endor Labs AI SAST Finds Zero Day Memory-Amplification DoS in Anthropics buffa library | Blog | Endor Labs](https://www.endorlabs.com/learn/endor-labs-ai-sast-finds-zero-day-cve-2026-55407-buffa)
 * [How I broke Rhysida ransomware encryption | Sigreturn Labs](https://sigreturn.com/blog/rhysida-analysis-decryption/)
 * [Amazon Q Vulnerability: Compromise via MCP Auto-Execution | Wiz Blog](https://www.wiz.io/blog/amazon-q-vulnerability)
+* [Playing Around With ADIDNS RPC Internals | by Luke Paris | Jul, 2026 | Paradoxis](https://blog.paradoxis.nl/playing-around-with-adidns-rpc-internals-0c59c15d0a15)
