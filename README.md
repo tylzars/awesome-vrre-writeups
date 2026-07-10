@@ -789,3 +789,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Playing Around With ADIDNS RPC Internals | by Luke Paris | Jul, 2026 | Paradoxis](https://blog.paradoxis.nl/playing-around-with-adidns-rpc-internals-0c59c15d0a15)
 * [GitLost: How We Tricked GitHubs AI Agent into Leaking Private Repos - Noma Security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 * [GitHub - J-jaeyoung/bad-epoll  GitHub](https://github.com/J-jaeyoung/bad-epoll)
+* [Inside an AI coal mine security camera network powered by plaintext passwords](https://eaton-works.com/2026/07/08/coal-india-camera-hack/)
