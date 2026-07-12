@@ -790,3 +790,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [GitLost: How We Tricked GitHubs AI Agent into Leaking Private Repos - Noma Security](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 * [GitHub - J-jaeyoung/bad-epoll  GitHub](https://github.com/J-jaeyoung/bad-epoll)
 * [Inside an AI coal mine security camera network powered by plaintext passwords](https://eaton-works.com/2026/07/08/coal-india-camera-hack/)
+* [Hacker House - Cybersecurity Services & Expertise](https://hacker.house/blog/inference-fuzzing-with-recursive-prompting-a-practical-methodology-for-llm-driven-code-audits)
+* [Hybrid Analysis Blog: Suspected Russian Threat Actor Impersonates Legitimate Crypto Wallets to Deploy Remote Utilities](https://hybrid-analysis.blogspot.com/2026/07/suspected-russian-threat-actor.html)
