@@ -795,3 +795,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Hacking Apple - SQL Injection to Remote Code Execution  ProjectDiscovery Blog](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection)
 * [http.sys  Integer overflow in per-request array capacity (CWE-190) causing kernel pool overflow in UlpParseNextRequest fixed  The Drift Corpus: Ring 0](https://byteray-ai.github.io/drift-corpus/item/http_a10f1434-http-report-20260629-001610.html)
 * [Vulnerabilities of Realtek SD card reader driver, part2 | ZwClose](https://zwclose.github.io/2026/07/08/rtsper2.html)
+* [The Memory Heist](https://www.ayush.digital/blog/the-memory-heist)
+* [Unauthenticated Arbitrary Code Execution in ServiceNow A palk.sh](https://palk.sh/unauthenticated-arbitrary-code-execution-in-servicenow/)
+* [Anatomy of a CUDA Binary | Aditya Kumar](https://hiraditya.github.io/posts/anatomy-of-a-cuda-binary/)
