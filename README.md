@@ -798,3 +798,7 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [The Memory Heist](https://www.ayush.digital/blog/the-memory-heist)
 * [Unauthenticated Arbitrary Code Execution in ServiceNow A palk.sh](https://palk.sh/unauthenticated-arbitrary-code-execution-in-servicenow/)
 * [Anatomy of a CUDA Binary | Aditya Kumar](https://hiraditya.github.io/posts/anatomy-of-a-cuda-binary/)
+* [ASUS bsitf.sys (CVE-2026-13585): Arbitrary Physical Memory Mapping | Rehman's Blog](https://blog.ahmadz.ai/asus_bsitf_0_day_poc/)
+* [Cursor 0day: When Full Disclosure Becomes the Only Protection Left - Mindgard](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+* [No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE](https://tokay0.com/posts/millions-of-shark-vacuums-vulnerable-to-rce.html)
+* [Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking // weirdmachine64](https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html)
