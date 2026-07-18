@@ -802,3 +802,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Cursor 0day: When Full Disclosure Becomes the Only Protection Left - Mindgard](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
 * [No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE](https://tokay0.com/posts/millions-of-shark-vacuums-vulnerable-to-rce.html)
 * [Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking // weirdmachine64](https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html)
+* [Windows AppResolver LPE: From AppContainer to SYSTEM  David Carliez](https://davidcarliez.github.io/blog/windows-appresolver-lpe-to-system/)
