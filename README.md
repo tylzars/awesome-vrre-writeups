@@ -803,3 +803,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE](https://tokay0.com/posts/millions-of-shark-vacuums-vulnerable-to-rce.html)
 * [Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking // weirdmachine64](https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html)
 * [Windows AppResolver LPE: From AppContainer to SYSTEM  David Carliez](https://davidcarliez.github.io/blog/windows-appresolver-lpe-to-system/)
+* [wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core](https://fullhunt.io/blog/2026/07/17/wp2shell-wordpress-core-pre-auth-rce-cve-2026-63030.html)
