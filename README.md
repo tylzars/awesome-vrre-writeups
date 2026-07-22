@@ -806,3 +806,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core](https://fullhunt.io/blog/2026/07/17/wp2shell-wordpress-core-pre-auth-rce-cve-2026-63030.html)
 * [Medium](https://blog.paradoxis.nl/escalating-all-the-privileges-with-foxit-pdf-reader-cve-2026-57239-582a78b60492)
 * [CVE-2026-49176 Exploit Development: WalletService to SYSTEM  David Carliez](https://davidcarliez.github.io/blog/cve-2026-49176-walletservice-to-system/)
+* [Leaking internal headers in Flask Ninja with deserialization | eval.blog](https://eval.blog/research/pickle-gadget-chain-in-flask-ninja/)
+* [The Hidden CCS2 Attack Surface on EV Chargers](https://www.saiflow.com/blog/the-hidden-ccs2-attack-surface-on-ev-chargers)
