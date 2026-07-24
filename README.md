@@ -808,3 +808,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [CVE-2026-49176 Exploit Development: WalletService to SYSTEM  David Carliez](https://davidcarliez.github.io/blog/cve-2026-49176-walletservice-to-system/)
 * [Leaking internal headers in Flask Ninja with deserialization | eval.blog](https://eval.blog/research/pickle-gadget-chain-in-flask-ninja/)
 * [The Hidden CCS2 Attack Surface on EV Chargers](https://www.saiflow.com/blog/the-hidden-ccs2-attack-surface-on-ev-chargers)
+* [Reporter 11: 10 people found the WPForms PayPal bug before me (CVE-2026-4986) :: Himanshu Anand :: Security & Other Notes](https://blog.himanshuanand.com/2026/07/reporter-11-10-people-found-the-wpforms-paypal-bug-before-me-cve-2026-4986/)
+* [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
+* [CVE-2026-50458: Finding a UAF in the Windows Brokering File System | Rotce's Blog](https://rotcee.github.io/posts/CVE-2026-50458-finding-a-UAF-in-windows-brokering-file-system/)
