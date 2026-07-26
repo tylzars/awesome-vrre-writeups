@@ -811,3 +811,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Reporter 11: 10 people found the WPForms PayPal bug before me (CVE-2026-4986) :: Himanshu Anand :: Security & Other Notes](https://blog.himanshuanand.com/2026/07/reporter-11-10-people-found-the-wpforms-paypal-bug-before-me-cve-2026-4986/)
 * [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
 * [CVE-2026-50458: Finding a UAF in the Windows Brokering File System | Rotce's Blog](https://rotcee.github.io/posts/CVE-2026-50458-finding-a-UAF-in-windows-brokering-file-system/)
+* [SharedRoot; Escaping the Claude Cowork sandbox  Accomplish Blog](https://www.accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/)
