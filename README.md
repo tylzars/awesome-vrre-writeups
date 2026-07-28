@@ -812,3 +812,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
 * [CVE-2026-50458: Finding a UAF in the Windows Brokering File System | Rotce's Blog](https://rotcee.github.io/posts/CVE-2026-50458-finding-a-UAF-in-windows-brokering-file-system/)
 * [SharedRoot; Escaping the Claude Cowork sandbox  Accomplish Blog](https://www.accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/)
+* [vBulletin Runtime Template runMaths Preauth RCE - SSD Secure Disclosure](https://ssd-disclosure.com/vbulletin-runtime-template-runmaths-preauth-rce/)
+* [Exploiting Volvo/Eichers fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
