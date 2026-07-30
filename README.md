@@ -814,3 +814,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [SharedRoot; Escaping the Claude Cowork sandbox  Accomplish Blog](https://www.accomplish.ai/blog/sharedroot-escaping-claude-cowork-sandbox/)
 * [vBulletin Runtime Template runMaths Preauth RCE - SSD Secure Disclosure](https://ssd-disclosure.com/vbulletin-runtime-template-runmaths-preauth-rce/)
 * [Exploiting Volvo/Eichers fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
+* [Simple Job Board  2.11.0 - Unauthenticated RCE (CVE-2024-1813) | Mobeta](https://mobeta.fr/simple-job-board-unauth-rce-cve-2024-1813/)
+* [Your House Has an FFmpeg Problem - elttam](https://www.elttam.com/blog/your-house-has-an-ffmpeg-problem)
