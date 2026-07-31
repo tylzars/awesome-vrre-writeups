@@ -816,3 +816,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Exploiting Volvo/Eichers fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [Simple Job Board  2.11.0 - Unauthenticated RCE (CVE-2024-1813) | Mobeta](https://mobeta.fr/simple-job-board-unauth-rce-cve-2024-1813/)
 * [Your House Has an FFmpeg Problem - elttam](https://www.elttam.com/blog/your-house-has-an-ffmpeg-problem)
+* [CosmosEscape: Taking Over Every Azure Cosmos DB | Wiz Blog](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db)
+* [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066) | Ethiack  Autonomous Ethical Hacking for continuous security](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
