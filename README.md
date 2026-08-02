@@ -818,3 +818,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Your House Has an FFmpeg Problem - elttam](https://www.elttam.com/blog/your-house-has-an-ffmpeg-problem)
 * [CosmosEscape: Taking Over Every Azure Cosmos DB | Wiz Blog](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db)
 * [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066) | Ethiack  Autonomous Ethical Hacking for continuous security](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
+* [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware | Block Engineering Blog](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
