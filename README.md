@@ -823,3 +823,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Cruising for Shells in Flowise - elttam](https://www.elttam.com/blog/cruising-for-shells-in-flowise)
 * [Kuna  an agent-first decompiler](https://kuna.noelo.org/)
 * [A connection is not an exploit: what 27 days of honeypot traffic actually contained a OffSeq](https://offseq.com/en/research/connection-is-not-an-exploit/)
+* [HEVD: From Stack Overflows to Modern Pool Grooming](https://sibouzitoun.tech/labs/from-stack-overflows-to-modern-pool-grooming/)
+* [Provisioning Packages  Purple Team](https://ipurple.team/2026/08/04/provisioning-packages/)
+* [Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router | Rotce's Blog](https://rotcee.github.io/posts/analyzing-the-mersusys-mb115-4g-router/)
