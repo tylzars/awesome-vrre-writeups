@@ -826,3 +826,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [HEVD: From Stack Overflows to Modern Pool Grooming](https://sibouzitoun.tech/labs/from-stack-overflows-to-modern-pool-grooming/)
 * [Provisioning Packages  Purple Team](https://ipurple.team/2026/08/04/provisioning-packages/)
 * [Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router | Rotce's Blog](https://rotcee.github.io/posts/analyzing-the-mersusys-mb115-4g-router/)
+* [Linux Bridge STP Timer Use-After-Free - SSD Secure Disclosure](https://ssd-disclosure.com/linux-bridge-stp-timer-use-after-free/)
+* [Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920) a Syntetisk // Research](https://syntetisk.tech/blog/posts/stored-xss-in-djangos-admin-via-an-unvalidated-urlfield-display-path-cve-2026-15920/)
