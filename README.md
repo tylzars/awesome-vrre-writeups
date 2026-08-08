@@ -829,3 +829,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Linux Bridge STP Timer Use-After-Free - SSD Secure Disclosure](https://ssd-disclosure.com/linux-bridge-stp-timer-use-after-free/)
 * [Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920) a Syntetisk // Research](https://syntetisk.tech/blog/posts/stored-xss-in-djangos-admin-via-an-unvalidated-urlfield-display-path-cve-2026-15920/)
 * [Claude Code RCE: How a Malicious PR Triggers Code Execution](https://www.immersivelabs.com/resources/blog/claude-code-rce-vulnerability-how-a-malicious-pull-request-executes-code)
+* [Trustfall: An RSA Heap Underwrite Into OP-TEE's Secure World  ByteRay Blog](https://blog.byteray.co.uk/blog/optee-rsa-nopad-heap-underwrite.html)
+* [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open | bobdahacker](https://bobdahacker.com/blog/tldv-hack)
