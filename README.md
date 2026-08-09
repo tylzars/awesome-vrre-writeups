@@ -831,3 +831,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Claude Code RCE: How a Malicious PR Triggers Code Execution](https://www.immersivelabs.com/resources/blog/claude-code-rce-vulnerability-how-a-malicious-pull-request-executes-code)
 * [Trustfall: An RSA Heap Underwrite Into OP-TEE's Secure World  ByteRay Blog](https://blog.byteray.co.uk/blog/optee-rsa-nopad-heap-underwrite.html)
 * [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open | bobdahacker](https://bobdahacker.com/blog/tldv-hack)
+* [Write Once, Shell Everywhere: Turning Arbitrary File Writes into RCE | Ethiack  Autonomous Ethical Hacking for continuous security](https://ethiack.com/info-hub/research/write-once-shell-everywhere-arbitrary-file-writes-into-rce)
+* [Investigating a Multi-Stage PowerShell Loader  Malware Analysis, Phishing, and Email Scams](https://malwr-analysis.com/2026/08/08/investigating-a-multi-stage-powershell-loader/)
