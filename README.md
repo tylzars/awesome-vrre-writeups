@@ -833,3 +833,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open | bobdahacker](https://bobdahacker.com/blog/tldv-hack)
 * [Write Once, Shell Everywhere: Turning Arbitrary File Writes into RCE | Ethiack  Autonomous Ethical Hacking for continuous security](https://ethiack.com/info-hub/research/write-once-shell-everywhere-arbitrary-file-writes-into-rce)
 * [Investigating a Multi-Stage PowerShell Loader  Malware Analysis, Phishing, and Email Scams](https://malwr-analysis.com/2026/08/08/investigating-a-multi-stage-powershell-loader/)
+* [Beyond Prompt Injection: Hacking Apple's Private Cloud Compute](https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/)
