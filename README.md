@@ -836,3 +836,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Beyond Prompt Injection: Hacking Apple's Private Cloud Compute](https://blog.sentry.security/beyond-prompt-injection-hacking-apples-private-cloud-compute/)
 * [CopyEscape: Taking Over Docker Hosts with docker cp | Imperva](https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/)
 * [A Cyber Security | Blog | ZOOMSDAY](https://a.security/blog/asecurity-zoomsday)
+* [I found a KVM guest-to-host heap corruption bug and someone else got there first :: Himanshu Anand :: Security & Other Notes](https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/)
