@@ -837,3 +837,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [CopyEscape: Taking Over Docker Hosts with docker cp | Imperva](https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/)
 * [A Cyber Security | Blog | ZOOMSDAY](https://a.security/blog/asecurity-zoomsday)
 * [I found a KVM guest-to-host heap corruption bug and someone else got there first :: Himanshu Anand :: Security & Other Notes](https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/)
+* [Youre Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))](https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/)
+* [Ruby 4.0 Universal RCE Deserialization Gadget Chain - elttam](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
+* [Part 1/6 | Systemic Risks in the Managed PostgreSQL Industry: Extension Risks Are Real! Exploiting PostGis Memory Corruption Bug at NeonDB, SupaBase and Many More - Mehmet Ince @mdisec - Vulnerability Researcher | Building security products | Security Advisor | Amateur Muay Thai fighter](https://mehmetince.net/part-1-6-systemic-risks-in-the-managed-postgresql-industry-extension-risks-are-real-exploiting-postgis-memory-corruption-bug-at-neondb-supabase-and-many-more/)
