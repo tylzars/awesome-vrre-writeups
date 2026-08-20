@@ -843,3 +843,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [CVE-2026-33696: From a Schema Name to RCE in n8n | Simon Koeck](https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce)
 * [Unauthenticated RCE in CircleCI MCP Server Explained](https://remedio.io/blog/the-critical-unauthenticated-rce-vulnerability-in-circlecis-mcp-server/)
 * [Dissecting House of Apple 2 on modern glibc | An interactive GDB walkthrough of House of Apple 2, from FSOP to stack pivot and ROP on glibc 2.43.](https://jazho76.github.io/house_of_apple_2/)
+* [Langflow RCE: 34 minutes to server compromise - Bitbison](https://bitbison.io/blog/langflow-rce-exposure/)
