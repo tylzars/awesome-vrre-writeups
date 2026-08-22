@@ -845,3 +845,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Dissecting House of Apple 2 on modern glibc | An interactive GDB walkthrough of House of Apple 2, from FSOP to stack pivot and ROP on glibc 2.43.](https://jazho76.github.io/house_of_apple_2/)
 * [Langflow RCE: 34 minutes to server compromise - Bitbison](https://bitbison.io/blog/langflow-rce-exposure/)
 * [When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg - Malware Analysis Blog](https://maldbg.com/interlock-esxi-decryptor-internals)
+* [Distinct Clusters Target Individuals of Interest to Russia | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia)
