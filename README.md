@@ -846,3 +846,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Langflow RCE: 34 minutes to server compromise - Bitbison](https://bitbison.io/blog/langflow-rce-exposure/)
 * [When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg - Malware Analysis Blog](https://maldbg.com/interlock-esxi-decryptor-internals)
 * [Distinct Clusters Target Individuals of Interest to Russia | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia)
+* [Local Privilege Escalation To System In Wibu-Systems CodeMeter Application | Shelltrail | Shelltrail - Swedish Experts in Pentesting](https://shelltrail.com/research/local-privilege-escalation-to-system-in-wibu-systems-codemeter-application)
+* [Pwning Call of Duty 1: a 20-year-old RCE, found in an evening with AI](https://zolder.io/en/blog/pwning-call-of-duty-1/)
