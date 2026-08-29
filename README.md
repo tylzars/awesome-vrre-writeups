@@ -850,3 +850,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Pwning Call of Duty 1: a 20-year-old RCE, found in an evening with AI](https://zolder.io/en/blog/pwning-call-of-duty-1/)
 * [A Log4j2 RCE That Isn't Log4Shell (Probably) | Jeff McJunkin](https://jeffmcjunkin.com/posts/log4j2-fois-marshalledobject/)
 * [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://boschko.ca/g1-ble-rce/)
+* [How we saved 100 terabytes of memory by optimizing 1.1.1.1as DNS cache | Cloudflare Blog](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
