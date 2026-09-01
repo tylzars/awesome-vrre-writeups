@@ -851,3 +851,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [A Log4j2 RCE That Isn't Log4Shell (Probably) | Jeff McJunkin](https://jeffmcjunkin.com/posts/log4j2-fois-marshalledobject/)
 * [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://boschko.ca/g1-ble-rce/)
 * [How we saved 100 terabytes of memory by optimizing 1.1.1.1as DNS cache | Cloudflare Blog](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+* [Privilege escalation from IIS AppPool to NT Authority/SYSTEM via AD CS RPC endpoint | Start With Linux | Mannu Linux](https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html)
