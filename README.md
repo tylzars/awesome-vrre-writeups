@@ -852,3 +852,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://boschko.ca/g1-ble-rce/)
 * [How we saved 100 terabytes of memory by optimizing 1.1.1.1as DNS cache | Cloudflare Blog](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
 * [Privilege escalation from IIS AppPool to NT Authority/SYSTEM via AD CS RPC endpoint | Start With Linux | Mannu Linux](https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html)
+* [GeoNetwork - PreAuth Remote Code Execution | Ethiack  Autonomous Ethical Hacking for continuous security](https://ethiack.com/info-hub/research/geonetwork-preauth-RCE)
+* [SCTPhantom: An 18-Year-Old SCTP ASCONF Transport Use-After-Free  Tencent Zhuque Lab](https://matrix.tencent.com/en/2026/08/06/sctphantom-CVE-2026-64564)
