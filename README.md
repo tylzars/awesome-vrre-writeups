@@ -856,3 +856,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [SCTPhantom: An 18-Year-Old SCTP ASCONF Transport Use-After-Free  Tencent Zhuque Lab](https://matrix.tencent.com/en/2026/08/06/sctphantom-CVE-2026-64564)
 * [How Forza Horizon 6 Breaks Your IDA](https://iretq.com/how-forza-horizon-6-breaks-your-ida/)
 * [Reverse Engineering Jane Streets ASIC | From the GDS file to the hidden flag](https://shoobham84.github.io/REJS/)
+* [GAPIUpdate delivers Odyssey Stealer on macOS - Have I Been Squatted](https://haveibeensquatted.com/blog/from-gapiupdate-to-odyssey-stealer-inside-a-macos-wallet-theft-chain)
