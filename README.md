@@ -857,3 +857,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [How Forza Horizon 6 Breaks Your IDA](https://iretq.com/how-forza-horizon-6-breaks-your-ida/)
 * [Reverse Engineering Jane Streets ASIC | From the GDS file to the hidden flag](https://shoobham84.github.io/REJS/)
 * [GAPIUpdate delivers Odyssey Stealer on macOS - Have I Been Squatted](https://haveibeensquatted.com/blog/from-gapiupdate-to-odyssey-stealer-inside-a-macos-wallet-theft-chain)
+* [WeWorm | Calif](https://calif.io/research/weworm)
