@@ -858,3 +858,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Reverse Engineering Jane Streets ASIC | From the GDS file to the hidden flag](https://shoobham84.github.io/REJS/)
 * [GAPIUpdate delivers Odyssey Stealer on macOS - Have I Been Squatted](https://haveibeensquatted.com/blog/from-gapiupdate-to-odyssey-stealer-inside-a-macos-wallet-theft-chain)
 * [WeWorm | Calif](https://calif.io/research/weworm)
+* [Out of Bounds, Out of Sandbox: RCE in Go JavaScript Engine](https://www.slcyber.io/research/out-of-bounds-out-of-sandbox-rce-goja)
+* [Beltdown: Escaping the Claude Code sandbox  Accomplish Blog](https://www.accomplish.ai/blog/beltdown-escaping-the-claude-code-sandbox/)
