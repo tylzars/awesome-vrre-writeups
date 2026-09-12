@@ -860,3 +860,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [WeWorm | Calif](https://calif.io/research/weworm)
 * [Out of Bounds, Out of Sandbox: RCE in Go JavaScript Engine](https://www.slcyber.io/research/out-of-bounds-out-of-sandbox-rce-goja)
 * [Beltdown: Escaping the Claude Code sandbox  Accomplish Blog](https://www.accomplish.ai/blog/beltdown-escaping-the-claude-code-sandbox/)
+* [Inside Claude's Android app: Finding the Internal Settings](https://nima-ahmadi.github.io/posts/claude-android-internal-settings/)
