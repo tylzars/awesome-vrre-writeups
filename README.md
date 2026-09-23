@@ -862,3 +862,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Beltdown: Escaping the Claude Code sandbox  Accomplish Blog](https://www.accomplish.ai/blog/beltdown-escaping-the-claude-code-sandbox/)
 * [Inside Claude's Android app: Finding the Internal Settings](https://nima-ahmadi.github.io/posts/claude-android-internal-settings/)
 * [IBM Db2 Mirror for i: pre-auth RCE and the road to QSECOFR - Silent Signal Techblog](https://blog.silentsignal.eu/2026/09/14/IBM-Db2-Mirror-for-i-pre-auth-RCE-and-the-road-to-QSECOFR/)
+* [Windows Exploitation Techniques: Dangling COM Object Registrations - Project Zero](https://projectzero.google/2026/09/windows-dangling-com.html)
+* [vCenter pre-auth RCE: CVE-2026-59309/59310 | Mobeta](https://mobeta.fr/blog/vcenter-cve-2026-59309-cve-2026-59310/)
