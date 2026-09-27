@@ -864,3 +864,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [IBM Db2 Mirror for i: pre-auth RCE and the road to QSECOFR - Silent Signal Techblog](https://blog.silentsignal.eu/2026/09/14/IBM-Db2-Mirror-for-i-pre-auth-RCE-and-the-road-to-QSECOFR/)
 * [Windows Exploitation Techniques: Dangling COM Object Registrations - Project Zero](https://projectzero.google/2026/09/windows-dangling-com.html)
 * [vCenter pre-auth RCE: CVE-2026-59309/59310 | Mobeta](https://mobeta.fr/blog/vcenter-cve-2026-59309-cve-2026-59310/)
+* [How One Twitch Chat Message Became Code Execution on a Streameras PC  SCRT Team Blog](https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/?utm_source=linkedin&utm_medium=social&utm_campaign=campaign)
+* [EX-ARRR: Sailing the 0-click Seas - ironPeak Blog](https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/)
