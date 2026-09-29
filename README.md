@@ -866,3 +866,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [vCenter pre-auth RCE: CVE-2026-59309/59310 | Mobeta](https://mobeta.fr/blog/vcenter-cve-2026-59309-cve-2026-59310/)
 * [How One Twitch Chat Message Became Code Execution on a Streameras PC  SCRT Team Blog](https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/?utm_source=linkedin&utm_medium=social&utm_campaign=campaign)
 * [EX-ARRR: Sailing the 0-click Seas - ironPeak Blog](https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/)
+* [Discovering and exploiting a remote code execution vulnerability in OpenCode (GHSA-632h-h47v-g4x4) | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/opencode-upgrade-remote-code-execution/)
+* [CVE-2026-32740 Next.js RCE: PIE sharp Exploit](https://fortbridge.co.uk/research/cve-2026-32740-nextjs-sharp-libheif-rce/)
