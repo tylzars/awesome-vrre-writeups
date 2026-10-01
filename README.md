@@ -869,3 +869,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Discovering and exploiting a remote code execution vulnerability in OpenCode (GHSA-632h-h47v-g4x4) | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/opencode-upgrade-remote-code-execution/)
 * [CVE-2026-32740 Next.js RCE: PIE sharp Exploit](https://fortbridge.co.uk/research/cve-2026-32740-nextjs-sharp-libheif-rce/)
 * [Deep Dive into FSOP  Niftic's blog](https://niftic.ca/posts/fsop/)
+* [Anthropic Mythos Finds Rejetto HFS RCE | Horizon3](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
+* [CVE-2026-86950: The Great Glyph Grift | Calif](https://calif.io/research/the-great-glyph-grift)
