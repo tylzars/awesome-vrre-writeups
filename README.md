@@ -872,3 +872,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Anthropic Mythos Finds Rejetto HFS RCE | Horizon3](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
 * [CVE-2026-86950: The Great Glyph Grift | Calif](https://calif.io/research/the-great-glyph-grift)
 * [Post-Quantum Crypto Won't Fix Your Architecture](https://schaerli.org/weblog/6-internxt/)
+* [From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities - SEC Consult](https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/)
