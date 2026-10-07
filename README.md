@@ -874,3 +874,6 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Post-Quantum Crypto Won't Fix Your Architecture](https://schaerli.org/weblog/6-internxt/)
 * [From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities - SEC Consult](https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/)
 * [WordPress libheif RCE: Exploit Chain](https://fortbridge.co.uk/research/wordpress-libheif-rce/)
+* [RedirectorsHub: SelectorsHub Forced-Tab Ad Network - MalExt Sentry](https://malext.io/reports/RedirectorsHub/)
+* [You Wont Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)](https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/)
+* [Bitvulnex: a vulnerable crypto exchange | Blaze Labs](https://www.blazeinfosec.com/labs/introducing-bitvulnex-vulnerable-crypto-exchange)
