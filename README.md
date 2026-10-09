@@ -877,3 +877,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [RedirectorsHub: SelectorsHub Forced-Tab Ad Network - MalExt Sentry](https://malext.io/reports/RedirectorsHub/)
 * [You Wont Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)](https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/)
 * [Bitvulnex: a vulnerable crypto exchange | Blaze Labs](https://www.blazeinfosec.com/labs/introducing-bitvulnex-vulnerable-crypto-exchange)
+* [Turning IDN edge cases into typosquats - Have I Been Squatted](https://haveibeensquatted.com/blog/turning-idn-edge-cases-into-typosquats)
+* [CVE-2026-47483: NVIDIA DCGM Exporter Vulnerability Exposes GPU Servers | LAVA](https://lava.security/research/cve-2026-47483-nvidia-dcgm-exporter-vulnerability)
