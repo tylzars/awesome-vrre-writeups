@@ -880,3 +880,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Turning IDN edge cases into typosquats - Have I Been Squatted](https://haveibeensquatted.com/blog/turning-idn-edge-cases-into-typosquats)
 * [CVE-2026-47483: NVIDIA DCGM Exporter Vulnerability Exposes GPU Servers | LAVA](https://lava.security/research/cve-2026-47483-nvidia-dcgm-exporter-vulnerability)
 * [We ported the original Doom to SQL | CedarDB](https://cedardb.com/blog/sqldoom/)
+* [How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
+* [LG webOS sync-demo Preauth RCE - SSD Secure Disclosure](https://ssd-disclosure.com/lg-webos-sync-demo-preauth-rce/)
