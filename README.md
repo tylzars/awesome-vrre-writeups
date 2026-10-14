@@ -882,3 +882,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [We ported the original Doom to SQL | CedarDB](https://cedardb.com/blog/sqldoom/)
 * [How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
 * [LG webOS sync-demo Preauth RCE - SSD Secure Disclosure](https://ssd-disclosure.com/lg-webos-sync-demo-preauth-rce/)
+* [Playing It SFAPE: Code Execution in Isolated User Mode  Doyensec's Blog](https://blog.doyensec.com/2026/10/13/Sfape.html)
