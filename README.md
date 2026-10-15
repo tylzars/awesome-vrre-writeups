@@ -883,3 +883,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [How I Found a $90,000 Remote Code Execution Vulnerability in Google | Simon Koeck](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
 * [LG webOS sync-demo Preauth RCE - SSD Secure Disclosure](https://ssd-disclosure.com/lg-webos-sync-demo-preauth-rce/)
 * [Playing It SFAPE: Code Execution in Isolated User Mode  Doyensec's Blog](https://blog.doyensec.com/2026/10/13/Sfape.html)
+* [oss-security - CVE-2026-74580: Linux vhost stale IOTLB cache leading to LPE and VM escape](https://www.openwall.com/lists/oss-security/2026/10/14/2)
+* [AhsayCBS Auth Bypass & RCE: CVE Analysis | Horizon3](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
