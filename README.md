@@ -885,3 +885,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Playing It SFAPE: Code Execution in Isolated User Mode  Doyensec's Blog](https://blog.doyensec.com/2026/10/13/Sfape.html)
 * [oss-security - CVE-2026-74580: Linux vhost stale IOTLB cache leading to LPE and VM escape](https://www.openwall.com/lists/oss-security/2026/10/14/2)
 * [AhsayCBS Auth Bypass & RCE: CVE Analysis | Horizon3](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
+* [CVE-2026-106173: FortiSIEM gRPC Path Traversal RCE | Horizon3](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
+* [Unauthenticated SQL injection in GLPI ( 11.0.8) | Mobeta](https://mobeta.fr/blog/glpi-unauth-sqli/)
