@@ -889,3 +889,5 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Unauthenticated SQL injection in GLPI ( 11.0.8) | Mobeta](https://mobeta.fr/blog/glpi-unauth-sqli/)
 * [php2shell by Calif Research](https://calif.io/php2shell/)
 * [Turning the Valve - Exploiting RCE and LPE in the Steam Platform | Atredis Partners](https://www.atredis.com/blog/2026/10/28/turning-the-valve/)
+* [CPython 0-Day Vulnerabilities Threaten the AI Supply Chain | RunSybil Blog](https://www.runsybil.com/blog/cpython-0-day-vulnerabilities-threaten-the-ai-supply-chain)
+* [Hacking the meta ray-ban smartglasses  pamoutaf](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
