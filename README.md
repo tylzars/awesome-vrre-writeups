@@ -891,3 +891,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Turning the Valve - Exploiting RCE and LPE in the Steam Platform | Atredis Partners](https://www.atredis.com/blog/2026/10/28/turning-the-valve/)
 * [CPython 0-Day Vulnerabilities Threaten the AI Supply Chain | RunSybil Blog](https://www.runsybil.com/blog/cpython-0-day-vulnerabilities-threaten-the-ai-supply-chain)
 * [Hacking the meta ray-ban smartglasses  pamoutaf](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
+* [Firecracker VM Escape: PwnEscape Part 2. | PWN.AI Security Research](https://pwn.ai/blog/firecracker-escape)
