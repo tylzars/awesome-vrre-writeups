@@ -892,3 +892,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [CPython 0-Day Vulnerabilities Threaten the AI Supply Chain | RunSybil Blog](https://www.runsybil.com/blog/cpython-0-day-vulnerabilities-threaten-the-ai-supply-chain)
 * [Hacking the meta ray-ban smartglasses  pamoutaf](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 * [Firecracker VM Escape: PwnEscape Part 2. | PWN.AI Security Research](https://pwn.ai/blog/firecracker-escape)
+* [Pwning Home Assistant Green: Pre-Auth RCE in Eclipse Mosquitto | born0monday](https://born0monday.me/posts/ha-green-mosquitto-rce/)
