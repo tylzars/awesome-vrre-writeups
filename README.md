@@ -894,3 +894,4 @@ Please feel free to make a PR to add writeups you may have. All credit for anyth
 * [Firecracker VM Escape: PwnEscape Part 2. | PWN.AI Security Research](https://pwn.ai/blog/firecracker-escape)
 * [Pwning Home Assistant Green: Pre-Auth RCE in Eclipse Mosquitto | born0monday](https://born0monday.me/posts/ha-green-mosquitto-rce/)
 * [Secure Exclaves and Ambient Sensing - Apple Security Research](https://security.apple.com/blog/secure-exclaves/)
+* [How I accidentally became a millionaire  lyra's epic blog](https://lyra.horse/blog/2026/11/disinformation-machine/)
